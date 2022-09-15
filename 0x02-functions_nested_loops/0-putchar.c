@@ -2,9 +2,9 @@
 
 /**
  * main - expected to print _putchar
- *
  * Return: 0 successfully
  */
+
 int main(void)
 {
 	char text[8] = "_putchar";
