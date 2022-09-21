@@ -5,7 +5,7 @@
  * @a: first integer
  * @b: second integer
  * Return: returns nothing
-*/
+ */
 
 void swap_int(int *a, int *b)
 {
@@ -14,4 +14,3 @@ void swap_int(int *a, int *b)
 	*a = *b;
 	*b = tmp;
 }
-
