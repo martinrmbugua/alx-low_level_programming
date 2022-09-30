@@ -11,6 +11,6 @@
  */
 int main(int argc attribute((unused)), char*argv[])
 {
-	priintf("%s\n", argv[0];
+	priintf("%s\n", argv[0]);
 	return (0);
 }
